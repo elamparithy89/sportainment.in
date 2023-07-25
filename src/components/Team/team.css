@@ -1,0 +1,28 @@
+section.contact-area {
+    background: #13589c;
+}
+
+.contact-area h2 {
+    color: #fff;
+}
+
+.contact-area .card {
+    background: #ffffff6b;
+}
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color: #1767b5;
+    font-weight: 700;
+}
+.nav-link:hover {
+	color: #1767b5;
+}
+.nav-link {
+    
+    color: #4e4949;
+    font-weight: 700;}
+	button.navbar-toggler{
+		background: #1767b5;
+	}
+	button.navbar-toggler.collapsed {
+		background: #1767b578;
+	}

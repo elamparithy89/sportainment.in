@@ -1,0 +1,22 @@
+/* Heading */
+
+section.partnership-area img {
+    max-width: 190px;
+}
+section.partnership-area .mall-img img {
+    max-width: 100%;
+}
+.site-heading {
+    margin-bottom: 60px;
+    overflow: hidden;
+    margin-top: -5px;
+}
+.site-heading h2 {
+    display: block;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+.site-heading h2 span {
+    color: #13589c;
+}
